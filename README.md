@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Jadhav</h1>
-<h3 align="center">Passionate about implementing and launching new project. Looking for opportunities!</h3>
+<h3 align="center">Passionate about implementing and launching new projects. Looking for opportunities!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
